@@ -21,7 +21,7 @@
 
 ## 📽️ Hướng dẫn sử dụng
 
-Video hướng dẫn sẽ được cập nhật sau.
+https://youtu.be/-Stan0JXl8Y
 
 ---
 
@@ -47,3 +47,5 @@ Cảm ơn bạn rất nhiều! ❤️
 > **Yêu cầu:** Windows 10 trở lên
 
 👉 [Tải về SchedBot V1.0](https://drive.google.com/uc?export=download&id=1y1dEdkd7am7Mb9JTitjsSYiRM1HlhP6v)
+
+## ⚠️ Nếu bạn gặp vấn đề hãy gửi email đến **schedbotctu@gmail.com**
