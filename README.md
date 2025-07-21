@@ -46,6 +46,6 @@ Cảm ơn bạn rất nhiều! ❤️
 
 > **Yêu cầu:** Windows 10 trở lên
 
-👉 [Tải về SchedBot V1.0](https://drive.google.com/uc?export=download&id=1y1dEdkd7am7Mb9JTitjsSYiRM1HlhP6v)
+👉 [Tải về SchedBot V1.1](https://drive.google.com/uc?export=download&id=1VZyJ0Jt7sfNGQCR96nl8vh2wQ4T1ImSl)
 
 ## ⚠️ Nếu bạn gặp vấn đề hãy gửi email đến **schedbotctu@gmail.com**
