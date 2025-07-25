@@ -1,5 +1,10 @@
 # 📦 CHANGELOG
 
+## [1.2] - 25/07/2025
+**Sửa lỗi**
+- Sửa lỗi khi sửa học phần.
+- 📥 [Tải xuống bản 1.2 tại đây](https://drive.google.com/uc?export=download&id=1M9H4bpkElh8_R08cqWOTrnaobkMBRu94)
+
 ## [1.1] - 21/07/2025
 **Sửa lỗi**
 - Sửa lỗi do thay đổi web HTQL.
